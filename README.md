@@ -1,2 +1,12 @@
-# bethe-hessian-numerics
-Tests for Bethe Hessian paper
+# Numerical experiments for the Bethe--Hessian
+
+This repository contains the MATLAB code for the numerical
+experiments accompanying [Bethe--Hessian Spectrum at the Percolation Threshold].
+
+## Reproducing the experiments
+
+The script `experiment_negative_eigenvalues.m` finds the distribution of the second smallest eigenvalue of the Bethe Hessian on an Erdős-Rényi graph of expected degree d on N vertices. Run on MATLAB R2023a.
+
+## Authors
+
+Theo McKenzie
