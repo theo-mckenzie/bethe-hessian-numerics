@@ -1,7 +1,7 @@
 # Numerical experiments for the Bethe--Hessian
 
 This repository contains the MATLAB code for the numerical
-experiments accompanying [Negative Spectrum of the Bethe--Hessian at the Percolation Threshold].
+experiments accompanying "The Bethe–Hessian Down to the Percolation Threshold".
 
 ## Reproducing the experiments
 
